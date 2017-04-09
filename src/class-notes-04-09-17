@@ -1,0 +1,46 @@
+04-09-17 class notes:
+
+conditional statement
+truth table
+
+enum->constant data type
+
+loop:
+To Do repetitive task
+
+For Loop:
+for(initialize block; conditional block;incremental/decremental block){
+  task
+}
+
+while Loop:
+while(condition){
+task
+}
+do...while Loop:
+do{
+ task
+}while();
+
+do..while vs while: In do..while, it does at least one task before it checks condition.
+In while, it checks the condition first before it does any task.
+
+for each Loop:  TODO
+String class:
+
+Array:
+
+Data Structure:
+
+ArrayList
+Stack
+Queue
+LinkedList
+HashMap HashTable
+Graph
+Trees
+Sorting
+
+Array vs ArrayList
+
+
